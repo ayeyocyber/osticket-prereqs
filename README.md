@@ -39,8 +39,8 @@ World Wide Web Services -> Application Development Features -> [X] CGI
 </p>
 <p>
 From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+  Register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe)
 From the “osTicket-Installation-Files” folder install the Rewrite Module (rewrite_amd64_en-US.msi)
-
 </p>
 <br />
 
@@ -59,10 +59,22 @@ From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5
 <br />
 
 <p>
-![d803c77f-e599-4835-a58f-0172598d84bd](https://github.com/user-attachments/assets/79807431-1772-48c8-9868-e854dbdf48c7)
+<img width="593" alt="Screenshot 2025-01-28 at 11 28 59 PM" src="https://github.com/user-attachments/assets/c6b3c67f-94a1-44df-95a2-66651d72e00f" />
 </p>
 <p>
 From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”
 Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
+</p>
+<br />
+
+<p>
+  <img width="1680" alt="Screenshot 2025-01-26 at 12 53 42 PM" src="https://github.com/user-attachments/assets/941f019e-0e58-4b48-a7bb-c57840e0ea71" />
+</p>
+<p>
+From the “osTicket-Installation-Files” folder, install HeidiSQL.
+Open Heidi SQL
+Create a new session
+Connect to the session
+Create a database called “osTicket”
 </p>
 <br />
