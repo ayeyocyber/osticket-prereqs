@@ -78,3 +78,14 @@ Connect to the session
 Create a database called “osTicket”
 </p>
 <br />
+
+<p>
+  <img width="1645" alt="Screenshot 2025-01-28 at 11 44 34 PM" src="https://github.com/user-attachments/assets/012d466b-36a6-46b0-b3b3-827c6e2b4ad1" />
+</p>
+<p>
+  <img width="1678" alt="Screenshot 2025-01-26 at 12 54 33 PM" src="https://github.com/user-attachments/assets/fa17609b-f56b-4f09-965e-35353f078687" />
+</p>
+<p>
+Now browse to your help desk login page and configure it and your done: http://localhost/osTicket/scp/login.php
+</p>
+<br />
