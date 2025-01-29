@@ -59,7 +59,7 @@ From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5
 <br />
 
 <p>
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.oreilly.com%2Flibrary%2Fview%2Fmicrosoft-iis-100%2F9781787126671%2Fad0ff9a5-87cf-4d97-8824-93001f965081.xhtml&psig=AOvVaw0P8-lJDwjZPBpAHdeaUHvA&ust=1738210934315000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODk7L6KmosDFQAAAAAdAAAAABAE![image](https://github.com/user-attachments/assets/6c12d27d-0335-4849-a7b2-54140a6995d4)
+![d803c77f-e599-4835-a58f-0172598d84bd](https://github.com/user-attachments/assets/79807431-1772-48c8-9868-e854dbdf48c7)
 </p>
 <p>
 From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”
